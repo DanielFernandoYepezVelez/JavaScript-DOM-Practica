@@ -10,8 +10,16 @@ html {
     box-sizing: inherit;
 }
 
+.body {
+    background-color: black;
+}
+
 .menu {
     background-color: blueviolet;
+}
+
+.menu2 {
+    background-color: rgb(11, 196, 11);
 }
 
 .fuenteLetra {
